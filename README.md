@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OS Task 1 - Abhishek Jha</title>
 </head>
 <body>
     <h1>OS Task 1</h1>
