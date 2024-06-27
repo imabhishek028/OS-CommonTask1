@@ -1,4 +1,0 @@
-Waiting Time: The total time a process spends waiting in the ready queue before it gets the CPU for execution.
-
-
-Turnaround Time: The total time taken for a process to complete from the time it enters the system (arrival time) to its completion (finish time).
